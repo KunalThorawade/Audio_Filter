@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.1.3)  5 APR 2024 17:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.1.3)  5 APR 2024 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1398,290 +1398,25 @@ LaTeX Warning: Command \j invalid in math mode on input line 227.
 
 LaTeX Warning: Command \j invalid in math mode on input line 227.
 
-
-Overfull \hbox (313.73648pt too wide) in paragraph at lines 232--233
-[][][][][] 
- []
-
-
-Overfull \hbox (320.28445pt too wide) in paragraph at lines 232--233
-[][] 
- []
-
-
-Overfull \hbox (341.06848pt too wide) in paragraph at lines 232--233
-[][] 
- []
-
-
-Overfull \hbox (313.39648pt too wide) in paragraph at lines 232--233
-[][] 
- []
-
-
-Overfull \hbox (331.06049pt too wide) in paragraph at lines 232--233
-[][] 
- []
-
-
-Overfull \hbox (313.67247pt too wide) in paragraph at lines 232--233
-[][] 
- []
-
-
-Overfull \hbox (393.22047pt too wide) in paragraph at lines 232--233
-[][] 
- []
-
-
-Overfull \hbox (313.67247pt too wide) in paragraph at lines 232--233
-[][] 
- []
-
-
-Overfull \hbox (375.76047pt too wide) in paragraph at lines 232--233
-[][] 
- []
-
-
-Overfull \hbox (313.67247pt too wide) in paragraph at lines 232--233
-[][] 
- []
-
-
-Overfull \hbox (331.73248pt too wide) in paragraph at lines 232--233
-[][] 
- []
-
-
-Overfull \hbox (313.67247pt too wide) in paragraph at lines 232--233
-[][] 
- []
-
-
-Overfull \hbox (334.39648pt too wide) in paragraph at lines 232--233
-[][] 
- []
-
-
-Overfull \hbox (313.67247pt too wide) in paragraph at lines 232--233
-[][] 
- []
-
-
-Overfull \hbox (337.72049pt too wide) in paragraph at lines 232--233
-[][] 
- []
-
-
-Overfull \hbox (331.67247pt too wide) in paragraph at lines 232--233
-[][] 
- []
-
-
-Overfull \hbox (322.27647pt too wide) in paragraph at lines 232--233
-[][] 
- []
-
-
-Overfull \hbox (310.39648pt too wide) in paragraph at lines 232--233
-[]  
- []
-
 <figs/H(z)_3.5.png, id=135, 462.528pt x 346.896pt>
 File: figs/H(z)_3.5.png Graphic file (type png)
 <use figs/H(z)_3.5.png>
 Package pdftex.def Info: figs/H(z)_3.5.png  used on input line 249.
 (pdftex.def)             Requested size: 252.0pt x 189.00427pt.
 
-Overfull \hbox (2144.32407pt too wide) in paragraph at lines 278--279
-[][][][][] 
- []
+Underfull \vbox (badness 2591) has occurred while \output is active []
 
-
-Overfull \hbox (2150.87204pt too wide) in paragraph at lines 278--279
-[][] 
- []
-
-
-Overfull \hbox (2171.65607pt too wide) in paragraph at lines 278--279
-[][] 
- []
-
-
-Overfull \hbox (2143.98407pt too wide) in paragraph at lines 278--279
-[][] 
- []
-
-
-Overfull \hbox (2161.64807pt too wide) in paragraph at lines 278--279
-[][] 
- []
-
-
-Overfull \hbox (2144.26006pt too wide) in paragraph at lines 278--279
-[][] 
- []
-
-
-Overfull \hbox (2223.80806pt too wide) in paragraph at lines 278--279
-[][] 
- []
-
-
-Overfull \hbox (2144.26006pt too wide) in paragraph at lines 278--279
-[][] 
- []
-
-
-Overfull \hbox (2206.34805pt too wide) in paragraph at lines 278--279
-[][] 
- []
-
-
-Overfull \hbox (2144.26006pt too wide) in paragraph at lines 278--279
-[][] 
- []
-
-
-Overfull \hbox (2162.32007pt too wide) in paragraph at lines 278--279
-[][] 
- []
-
-
-Overfull \hbox (2144.26006pt too wide) in paragraph at lines 278--279
-[][] 
- []
-
-
-Overfull \hbox (2164.98407pt too wide) in paragraph at lines 278--279
-[][] 
- []
-
-
-Overfull \hbox (2144.26006pt too wide) in paragraph at lines 278--279
-[][] 
- []
-
-
-Overfull \hbox (2168.30807pt too wide) in paragraph at lines 278--279
-[][] 
- []
-
-
-Overfull \hbox (2162.26006pt too wide) in paragraph at lines 278--279
-[][] 
- []
-
-
-Overfull \hbox (2152.86406pt too wide) in paragraph at lines 278--279
-[][] 
- []
-
-
-Overfull \hbox (2140.98407pt too wide) in paragraph at lines 278--279
-[]  
- []
-
-[3 <./figs/H(z)_3.5.png>]
-<figs/hn.png, id=165, 462.528pt x 346.896pt>
+<figs/hn.png, id=140, 462.528pt x 346.896pt>
 File: figs/hn.png Graphic file (type png)
 <use figs/hn.png>
 Package pdftex.def Info: figs/hn.png  used on input line 282.
 (pdftex.def)             Requested size: 252.0pt x 189.00427pt.
 
+Underfull \vbox (badness 2671) has occurred while \output is active []
+
+ [3 <./figs/H(z)_3.5.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 310--316
 
- []
-
-
-Overfull \hbox (2198.3237pt too wide) in paragraph at lines 321--322
-[][][][][] 
- []
-
-
-Overfull \hbox (2204.87167pt too wide) in paragraph at lines 321--322
-[][] 
- []
-
-
-Overfull \hbox (2225.6557pt too wide) in paragraph at lines 321--322
-[][] 
- []
-
-
-Overfull \hbox (2197.9837pt too wide) in paragraph at lines 321--322
-[][] 
- []
-
-
-Overfull \hbox (2215.6477pt too wide) in paragraph at lines 321--322
-[][] 
- []
-
-
-Overfull \hbox (2198.25969pt too wide) in paragraph at lines 321--322
-[][] 
- []
-
-
-Overfull \hbox (2277.8077pt too wide) in paragraph at lines 321--322
-[][] 
- []
-
-
-Overfull \hbox (2198.25969pt too wide) in paragraph at lines 321--322
-[][] 
- []
-
-
-Overfull \hbox (2260.34769pt too wide) in paragraph at lines 321--322
-[][] 
- []
-
-
-Overfull \hbox (2198.25969pt too wide) in paragraph at lines 321--322
-[][] 
- []
-
-
-Overfull \hbox (2216.3197pt too wide) in paragraph at lines 321--322
-[][] 
- []
-
-
-Overfull \hbox (2198.25969pt too wide) in paragraph at lines 321--322
-[][] 
- []
-
-
-Overfull \hbox (2218.9837pt too wide) in paragraph at lines 321--322
-[][] 
- []
-
-
-Overfull \hbox (2198.25969pt too wide) in paragraph at lines 321--322
-[][] 
- []
-
-
-Overfull \hbox (2222.30771pt too wide) in paragraph at lines 321--322
-[][] 
- []
-
-
-Overfull \hbox (2216.25969pt too wide) in paragraph at lines 321--322
-[][] 
- []
-
-
-Overfull \hbox (2206.8637pt too wide) in paragraph at lines 321--322
-[][] 
- []
-
-
-Overfull \hbox (2194.9837pt too wide) in paragraph at lines 321--322
-[]  
  []
 
 <figs/hndef.png, id=171, 462.528pt x 346.896pt>
@@ -1689,310 +1424,28 @@ File: figs/hndef.png Graphic file (type png)
 <use figs/hndef.png>
 Package pdftex.def Info: figs/hndef.png  used on input line 325.
 (pdftex.def)             Requested size: 252.0pt x 189.00427pt.
-[4 <./figs/hn.png> <./figs/hndef.png>]
-Overfull \hbox (2198.3237pt too wide) in paragraph at lines 346--347
-[][][][][] 
- []
-
-
-Overfull \hbox (2204.87167pt too wide) in paragraph at lines 346--347
-[][] 
- []
-
-
-Overfull \hbox (2225.6557pt too wide) in paragraph at lines 346--347
-[][] 
- []
-
-
-Overfull \hbox (2197.9837pt too wide) in paragraph at lines 346--347
-[][] 
- []
-
-
-Overfull \hbox (2215.6477pt too wide) in paragraph at lines 346--347
-[][] 
- []
-
-
-Overfull \hbox (2198.25969pt too wide) in paragraph at lines 346--347
-[][] 
- []
-
-
-Overfull \hbox (2277.8077pt too wide) in paragraph at lines 346--347
-[][] 
- []
-
-
-Overfull \hbox (2198.25969pt too wide) in paragraph at lines 346--347
-[][] 
- []
-
-
-Overfull \hbox (2260.34769pt too wide) in paragraph at lines 346--347
-[][] 
- []
-
-
-Overfull \hbox (2198.25969pt too wide) in paragraph at lines 346--347
-[][] 
- []
-
-
-Overfull \hbox (2216.3197pt too wide) in paragraph at lines 346--347
-[][] 
- []
-
-
-Overfull \hbox (2198.25969pt too wide) in paragraph at lines 346--347
-[][] 
- []
-
-
-Overfull \hbox (2218.9837pt too wide) in paragraph at lines 346--347
-[][] 
- []
-
-
-Overfull \hbox (2198.25969pt too wide) in paragraph at lines 346--347
-[][] 
- []
-
-
-Overfull \hbox (2222.30771pt too wide) in paragraph at lines 346--347
-[][] 
- []
-
-
-Overfull \hbox (2216.25969pt too wide) in paragraph at lines 346--347
-[][] 
- []
-
-
-Overfull \hbox (2206.8637pt too wide) in paragraph at lines 346--347
-[][] 
- []
-
-
-Overfull \hbox (2194.9837pt too wide) in paragraph at lines 346--347
-[]  
- []
-
-<figs/y_by_conv.png, id=196, 462.528pt x 346.896pt>
+<figs/y_by_conv.png, id=176, 462.528pt x 346.896pt>
 File: figs/y_by_conv.png Graphic file (type png)
 <use figs/y_by_conv.png>
 Package pdftex.def Info: figs/y_by_conv.png  used on input line 350.
 (pdftex.def)             Requested size: 252.0pt x 189.00427pt.
 
-Underfull \vbox (badness 6461) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+ [4 <./figs/hn.png> <./figs/hndef.png>]
 
 LaTeX Warning: Command \j invalid in math mode on input line 375.
 
 
 LaTeX Warning: Command \j invalid in math mode on input line 385.
 
-
-Overfull \hbox (2354.92264pt too wide) in paragraph at lines 391--392
-[][][][][] 
- []
-
-
-Overfull \hbox (2361.47061pt too wide) in paragraph at lines 391--392
-[][] 
- []
-
-
-Overfull \hbox (2382.25464pt too wide) in paragraph at lines 391--392
-[][] 
- []
-
-
-Overfull \hbox (2354.58264pt too wide) in paragraph at lines 391--392
-[][] 
- []
-
-
-Overfull \hbox (2372.24664pt too wide) in paragraph at lines 391--392
-[][] 
- []
-
-
-Overfull \hbox (2354.85863pt too wide) in paragraph at lines 391--392
-[][] 
- []
-
-
-Overfull \hbox (2434.40663pt too wide) in paragraph at lines 391--392
-[][] 
- []
-
-
-Overfull \hbox (2354.85863pt too wide) in paragraph at lines 391--392
-[][] 
- []
-
-
-Overfull \hbox (2416.94662pt too wide) in paragraph at lines 391--392
-[][] 
- []
-
-
-Overfull \hbox (2354.85863pt too wide) in paragraph at lines 391--392
-[][] 
- []
-
-
-Overfull \hbox (2372.91864pt too wide) in paragraph at lines 391--392
-[][] 
- []
-
-
-Overfull \hbox (2354.85863pt too wide) in paragraph at lines 391--392
-[][] 
- []
-
-
-Overfull \hbox (2375.58264pt too wide) in paragraph at lines 391--392
-[][] 
- []
-
-
-Overfull \hbox (2354.85863pt too wide) in paragraph at lines 391--392
-[][] 
- []
-
-
-Overfull \hbox (2378.90665pt too wide) in paragraph at lines 391--392
-[][] 
- []
-
-
-Overfull \hbox (2360.85863pt too wide) in paragraph at lines 391--392
-[][] 
- []
-
-
-Overfull \hbox (2374.94662pt too wide) in paragraph at lines 391--392
-[][] 
- []
-
-
-Overfull \hbox (2354.58264pt too wide) in paragraph at lines 391--392
-[][] 
- []
-
-
-Overfull \hbox (2363.46263pt too wide) in paragraph at lines 391--392
-[][] 
- []
-
-
-Overfull \hbox (2351.58264pt too wide) in paragraph at lines 391--392
-[]  
- []
-
-[5 <./figs/y_by_conv.png>]
-Overfull \hbox (2354.92264pt too wide) in paragraph at lines 397--398
-[][][][][] 
- []
-
-
-Overfull \hbox (2361.47061pt too wide) in paragraph at lines 397--398
-[][] 
- []
-
-
-Overfull \hbox (2382.25464pt too wide) in paragraph at lines 397--398
-[][] 
- []
-
-
-Overfull \hbox (2354.58264pt too wide) in paragraph at lines 397--398
-[][] 
- []
-
-
-Overfull \hbox (2372.24664pt too wide) in paragraph at lines 397--398
-[][] 
- []
-
-
-Overfull \hbox (2354.85863pt too wide) in paragraph at lines 397--398
-[][] 
- []
-
-
-Overfull \hbox (2434.40663pt too wide) in paragraph at lines 397--398
-[][] 
- []
-
-
-Overfull \hbox (2354.85863pt too wide) in paragraph at lines 397--398
-[][] 
- []
-
-
-Overfull \hbox (2416.94662pt too wide) in paragraph at lines 397--398
-[][] 
- []
-
-
-Overfull \hbox (2354.85863pt too wide) in paragraph at lines 397--398
-[][] 
- []
-
-
-Overfull \hbox (2372.91864pt too wide) in paragraph at lines 397--398
-[][] 
- []
-
-
-Overfull \hbox (2354.85863pt too wide) in paragraph at lines 397--398
-[][] 
- []
-
-
-Overfull \hbox (2375.58264pt too wide) in paragraph at lines 397--398
-[][] 
- []
-
-
-Overfull \hbox (2354.85863pt too wide) in paragraph at lines 397--398
-[][] 
- []
-
-
-Overfull \hbox (2378.90665pt too wide) in paragraph at lines 397--398
-[][] 
- []
-
-
-Overfull \hbox (2372.85863pt too wide) in paragraph at lines 397--398
-[][] 
- []
-
-
-Overfull \hbox (2363.46263pt too wide) in paragraph at lines 397--398
-[][] 
- []
-
-
-Overfull \hbox (2351.58264pt too wide) in paragraph at lines 397--398
-[]  
- []
-
-<figs/yn_verf_5.4.png, id=219, 462.528pt x 346.896pt>
+<figs/yn_verf_5.4.png, id=201, 462.528pt x 346.896pt>
 File: figs/yn_verf_5.4.png Graphic file (type png)
 <use figs/yn_verf_5.4.png>
 Package pdftex.def Info: figs/yn_verf_5.4.png  used on input line 402.
 (pdftex.def)             Requested size: 252.0pt x 189.00427pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<figs/yn_DFT_matrix.png, id=221, 462.528pt x 346.896pt>
+[5 <./figs/y_by_conv.png> <./figs/yn_verf_5.4.png>]
+<figs/yn_DFT_matrix.png, id=229, 462.528pt x 346.896pt>
 File: figs/yn_DFT_matrix.png Graphic file (type png)
 <use figs/yn_DFT_matrix.png>
 Package pdftex.def Info: figs/yn_DFT_matrix.png  used on input line 444.
@@ -2023,186 +1476,21 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 451.
 
 
-Overfull \hbox (3383.07596pt too wide) in paragraph at lines 459--460
-[][][][][] 
- []
-
-
-Overfull \hbox (3338.57605pt too wide) in paragraph at lines 459--460
-[][] 
- []
-
-
-Overfull \hbox (3342.00797pt too wide) in paragraph at lines 459--460
-[][] 
- []
-
-
-Overfull \hbox (3338.57605pt too wide) in paragraph at lines 459--460
-[][] 
- []
-
-
-Overfull \hbox (3363.04398pt too wide) in paragraph at lines 459--460
-[][] 
- []
-
-
-Overfull \hbox (3337.37598pt too wide) in paragraph at lines 459--460
-[][] 
- []
-
-
-Overfull \hbox (3360.37997pt too wide) in paragraph at lines 459--460
-[][] 
- []
-
-
-Overfull \hbox (3338.37198pt too wide) in paragraph at lines 459--460
-[][] 
- []
-
-
-Overfull \hbox (3340.37598pt too wide) in paragraph at lines 459--460
-[][] 
- []
-
-
-Overfull \hbox (3337.37598pt too wide) in paragraph at lines 459--460
-[][] 
- []
-
-
-Overfull \hbox (3338.57605pt too wide) in paragraph at lines 459--460
-[][] 
- []
-
-
-Overfull \hbox (3339.70398pt too wide) in paragraph at lines 459--460
-[][] 
- []
-
-
-Overfull \hbox (3337.37598pt too wide) in paragraph at lines 459--460
-[][] 
- []
-
-
-Overfull \hbox (3338.57605pt too wide) in paragraph at lines 459--460
-[][] 
- []
-
-
-Overfull \hbox (3397.07596pt too wide) in paragraph at lines 459--460
-[][] 
- []
-
-
-Overfull \hbox (3338.37198pt too wide) in paragraph at lines 459--460
-[][] 
- []
-
-
-Overfull \hbox (3334.37598pt too wide) in paragraph at lines 459--460
-[]  
- []
-
-[6 <./figs/yn_verf_5.4.png> <./figs/yn_DFT_matrix.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 465--469
 
  []
 
 
-Overfull \hbox (3386.31564pt too wide) in paragraph at lines 472--473
-[][][][][] 
- []
-
-
-Overfull \hbox (3392.86362pt too wide) in paragraph at lines 472--473
+Overfull \hbox (47.62282pt too wide) in paragraph at lines 472--473
 [][] 
  []
 
 
-Overfull \hbox (3413.64764pt too wide) in paragraph at lines 472--473
+Overfull \hbox (30.16281pt too wide) in paragraph at lines 472--473
 [][] 
  []
 
-
-Overfull \hbox (3385.97565pt too wide) in paragraph at lines 472--473
-[][] 
- []
-
-
-Overfull \hbox (3403.63965pt too wide) in paragraph at lines 472--473
-[][] 
- []
-
-
-Overfull \hbox (3386.25163pt too wide) in paragraph at lines 472--473
-[][] 
- []
-
-
-Overfull \hbox (3465.79964pt too wide) in paragraph at lines 472--473
-[][] 
- []
-
-
-Overfull \hbox (3386.25163pt too wide) in paragraph at lines 472--473
-[][] 
- []
-
-
-Overfull \hbox (3448.33963pt too wide) in paragraph at lines 472--473
-[][] 
- []
-
-
-Overfull \hbox (3386.25163pt too wide) in paragraph at lines 472--473
-[][] 
- []
-
-
-Overfull \hbox (3404.31165pt too wide) in paragraph at lines 472--473
-[][] 
- []
-
-
-Overfull \hbox (3386.25163pt too wide) in paragraph at lines 472--473
-[][] 
- []
-
-
-Overfull \hbox (3406.97565pt too wide) in paragraph at lines 472--473
-[][] 
- []
-
-
-Overfull \hbox (3386.25163pt too wide) in paragraph at lines 472--473
-[][] 
- []
-
-
-Overfull \hbox (3410.29965pt too wide) in paragraph at lines 472--473
-[][] 
- []
-
-
-Overfull \hbox (3404.25163pt too wide) in paragraph at lines 472--473
-[][] 
- []
-
-
-Overfull \hbox (3394.85564pt too wide) in paragraph at lines 472--473
-[][] 
- []
-
-
-Overfull \hbox (3382.97565pt too wide) in paragraph at lines 472--473
-[]  
- []
-
-<figs/Audio_Filter_verf.png, id=241, 462.528pt x 346.896pt>
+<figs/Audio_Filter_verf.png, id=232, 462.528pt x 346.896pt>
 File: figs/Audio_Filter_verf.png Graphic file (type png)
 <use figs/Audio_Filter_verf.png>
 Package pdftex.def Info: figs/Audio_Filter_verf.png  used on input line 476.
@@ -2213,432 +1501,81 @@ Overfull \hbox (27.65247pt too wide) detected at line 495
  []
 
 
-Overfull \hbox (7.96732pt too wide) detected at line 503
+Overfull \hbox (79.96732pt too wide) detected at line 503
 []
  []
 
-[7 <./figs/Audio_Filter_verf.png>]
+[6 <./figs/yn_DFT_matrix.png> <./figs/Audio_Filter_verf.png>]
 Underfull \hbox (badness 2460) in paragraph at lines 523--525
 \OT1/txr/m/n/12 The be-low code com-putes the val-ues of
  []
 
 
-Overfull \hbox (3812.91275pt too wide) in paragraph at lines 526--527
-[][][][][] 
- []
-
-
-Overfull \hbox (3819.46072pt too wide) in paragraph at lines 526--527
+Overfull \hbox (47.62282pt too wide) in paragraph at lines 526--527
 [][] 
  []
 
 
-Overfull \hbox (3840.24475pt too wide) in paragraph at lines 526--527
+Overfull \hbox (30.16281pt too wide) in paragraph at lines 526--527
 [][] 
  []
 
 
-Overfull \hbox (3812.57275pt too wide) in paragraph at lines 526--527
+Overfull \hbox (47.62282pt too wide) in paragraph at lines 538--539
 [][] 
  []
 
 
-Overfull \hbox (3830.23676pt too wide) in paragraph at lines 526--527
+Overfull \hbox (30.16281pt too wide) in paragraph at lines 538--539
 [][] 
  []
 
 
-Overfull \hbox (3812.84874pt too wide) in paragraph at lines 526--527
+Overfull \hbox (48.1748pt too wide) in paragraph at lines 538--539
 [][] 
  []
 
-
-Overfull \hbox (3892.39674pt too wide) in paragraph at lines 526--527
-[][] 
- []
-
-
-Overfull \hbox (3812.84874pt too wide) in paragraph at lines 526--527
-[][] 
- []
-
-
-Overfull \hbox (3874.93674pt too wide) in paragraph at lines 526--527
-[][] 
- []
-
-
-Overfull \hbox (3812.84874pt too wide) in paragraph at lines 526--527
-[][] 
- []
-
-
-Overfull \hbox (3830.90875pt too wide) in paragraph at lines 526--527
-[][] 
- []
-
-
-Overfull \hbox (3812.84874pt too wide) in paragraph at lines 526--527
-[][] 
- []
-
-
-Overfull \hbox (3833.57275pt too wide) in paragraph at lines 526--527
-[][] 
- []
-
-
-Overfull \hbox (3812.84874pt too wide) in paragraph at lines 526--527
-[][] 
- []
-
-
-Overfull \hbox (3836.89676pt too wide) in paragraph at lines 526--527
-[][] 
- []
-
-
-Overfull \hbox (3830.84874pt too wide) in paragraph at lines 526--527
-[][] 
- []
-
-
-Overfull \hbox (3821.45274pt too wide) in paragraph at lines 526--527
-[][] 
- []
-
-
-Overfull \hbox (3809.57275pt too wide) in paragraph at lines 526--527
-[]  
- []
-
-
-Overfull \hbox (3812.91275pt too wide) in paragraph at lines 538--539
-[][][][][] 
- []
-
-
-Overfull \hbox (3819.46072pt too wide) in paragraph at lines 538--539
-[][] 
- []
-
-
-Overfull \hbox (3840.24475pt too wide) in paragraph at lines 538--539
-[][] 
- []
-
-
-Overfull \hbox (3812.57275pt too wide) in paragraph at lines 538--539
-[][] 
- []
-
-
-Overfull \hbox (3830.23676pt too wide) in paragraph at lines 538--539
-[][] 
- []
-
-
-Overfull \hbox (3812.84874pt too wide) in paragraph at lines 538--539
-[][] 
- []
-
-
-Overfull \hbox (3892.39674pt too wide) in paragraph at lines 538--539
-[][] 
- []
-
-
-Overfull \hbox (3812.84874pt too wide) in paragraph at lines 538--539
-[][] 
- []
-
-
-Overfull \hbox (3874.93674pt too wide) in paragraph at lines 538--539
-[][] 
- []
-
-
-Overfull \hbox (3812.84874pt too wide) in paragraph at lines 538--539
-[][] 
- []
-
-
-Overfull \hbox (3830.90875pt too wide) in paragraph at lines 538--539
-[][] 
- []
-
-
-Overfull \hbox (3812.84874pt too wide) in paragraph at lines 538--539
-[][] 
- []
-
-
-Overfull \hbox (3833.57275pt too wide) in paragraph at lines 538--539
-[][] 
- []
-
-
-Overfull \hbox (3812.84874pt too wide) in paragraph at lines 538--539
-[][] 
- []
-
-
-Overfull \hbox (3836.89676pt too wide) in paragraph at lines 538--539
-[][] 
- []
-
-
-Overfull \hbox (3818.84874pt too wide) in paragraph at lines 538--539
-[][] 
- []
-
-
-Overfull \hbox (3892.94873pt too wide) in paragraph at lines 538--539
-[][] 
- []
-
-
-Overfull \hbox (3812.57275pt too wide) in paragraph at lines 538--539
-[][] 
- []
-
-
-Overfull \hbox (3821.45274pt too wide) in paragraph at lines 538--539
-[][] 
- []
-
-
-Overfull \hbox (3809.57275pt too wide) in paragraph at lines 538--539
-[]  
- []
-
-<figs/Filter_Response.png, id=269, 462.528pt x 346.896pt>
+<figs/Filter_Response.png, id=263, 462.528pt x 346.896pt>
 File: figs/Filter_Response.png Graphic file (type png)
 <use figs/Filter_Response.png>
 Package pdftex.def Info: figs/Filter_Response.png  used on input line 542.
 (pdftex.def)             Requested size: 252.0pt x 189.00427pt.
 
-Overfull \hbox (3834.5126pt too wide) in paragraph at lines 551--552
-[][][][][] 
- []
-
-
-Overfull \hbox (3841.06058pt too wide) in paragraph at lines 551--552
+Overfull \hbox (47.62282pt too wide) in paragraph at lines 551--552
 [][] 
  []
 
 
-Overfull \hbox (3861.8446pt too wide) in paragraph at lines 551--552
+Overfull \hbox (30.16281pt too wide) in paragraph at lines 551--552
 [][] 
  []
 
 
-Overfull \hbox (3834.1726pt too wide) in paragraph at lines 551--552
+Overfull \hbox (19.49481pt too wide) in paragraph at lines 551--552
 [][] 
  []
 
-
-Overfull \hbox (3851.83661pt too wide) in paragraph at lines 551--552
-[][] 
- []
-
-
-Overfull \hbox (3834.4486pt too wide) in paragraph at lines 551--552
-[][] 
- []
-
-
-Overfull \hbox (3913.9966pt too wide) in paragraph at lines 551--552
-[][] 
- []
-
-
-Overfull \hbox (3834.4486pt too wide) in paragraph at lines 551--552
-[][] 
- []
-
-
-Overfull \hbox (3896.53659pt too wide) in paragraph at lines 551--552
-[][] 
- []
-
-
-Overfull \hbox (3834.4486pt too wide) in paragraph at lines 551--552
-[][] 
- []
-
-
-Overfull \hbox (3852.5086pt too wide) in paragraph at lines 551--552
-[][] 
- []
-
-
-Overfull \hbox (3834.4486pt too wide) in paragraph at lines 551--552
-[][] 
- []
-
-
-Overfull \hbox (3855.1726pt too wide) in paragraph at lines 551--552
-[][] 
- []
-
-
-Overfull \hbox (3834.4486pt too wide) in paragraph at lines 551--552
-[][] 
- []
-
-
-Overfull \hbox (3858.49661pt too wide) in paragraph at lines 551--552
-[][] 
- []
-
-
-Overfull \hbox (3834.4486pt too wide) in paragraph at lines 551--552
-[][] 
- []
-
-
-Overfull \hbox (3885.86859pt too wide) in paragraph at lines 551--552
-[][] 
- []
-
-
-Overfull \hbox (3834.1726pt too wide) in paragraph at lines 551--552
-[][] 
- []
-
-
-Overfull \hbox (3843.0526pt too wide) in paragraph at lines 551--552
-[][] 
- []
-
-
-Overfull \hbox (3831.1726pt too wide) in paragraph at lines 551--552
-[]  
- []
-
-[8 <./figs/Filter_Response.png>]
-<figs/Butterworth_analog.png, id=291, 462.528pt x 346.896pt>
+<figs/Butterworth_analog.png, id=264, 462.528pt x 346.896pt>
 File: figs/Butterworth_analog.png Graphic file (type png)
 <use figs/Butterworth_analog.png>
 Package pdftex.def Info: figs/Butterworth_analog.png  used on input line 555.
 (pdftex.def)             Requested size: 252.0pt x 189.00427pt.
-
-Overfull \hbox (3834.5126pt too wide) in paragraph at lines 564--565
-[][][][][] 
- []
-
-
-Overfull \hbox (3841.06058pt too wide) in paragraph at lines 564--565
+[7 <./figs/Filter_Response.png>]
+Overfull \hbox (47.62282pt too wide) in paragraph at lines 564--565
 [][] 
  []
 
 
-Overfull \hbox (3861.8446pt too wide) in paragraph at lines 564--565
+Overfull \hbox (30.16281pt too wide) in paragraph at lines 564--565
 [][] 
  []
 
-
-Overfull \hbox (3834.1726pt too wide) in paragraph at lines 564--565
-[][] 
- []
-
-
-Overfull \hbox (3851.83661pt too wide) in paragraph at lines 564--565
-[][] 
- []
-
-
-Overfull \hbox (3834.4486pt too wide) in paragraph at lines 564--565
-[][] 
- []
-
-
-Overfull \hbox (3913.9966pt too wide) in paragraph at lines 564--565
-[][] 
- []
-
-
-Overfull \hbox (3834.4486pt too wide) in paragraph at lines 564--565
-[][] 
- []
-
-
-Overfull \hbox (3896.53659pt too wide) in paragraph at lines 564--565
-[][] 
- []
-
-
-Overfull \hbox (3834.4486pt too wide) in paragraph at lines 564--565
-[][] 
- []
-
-
-Overfull \hbox (3852.5086pt too wide) in paragraph at lines 564--565
-[][] 
- []
-
-
-Overfull \hbox (3834.4486pt too wide) in paragraph at lines 564--565
-[][] 
- []
-
-
-Overfull \hbox (3855.1726pt too wide) in paragraph at lines 564--565
-[][] 
- []
-
-
-Overfull \hbox (3834.4486pt too wide) in paragraph at lines 564--565
-[][] 
- []
-
-
-Overfull \hbox (3858.49661pt too wide) in paragraph at lines 564--565
-[][] 
- []
-
-
-Overfull \hbox (3849.4486pt too wide) in paragraph at lines 564--565
-[][] 
- []
-
-
-Overfull \hbox (3861.1966pt too wide) in paragraph at lines 564--565
-[][] 
- []
-
-
-Overfull \hbox (3838.8046pt too wide) in paragraph at lines 564--565
-[][] 
- []
-
-
-Overfull \hbox (3851.82462pt too wide) in paragraph at lines 564--565
-[][] 
- []
-
-
-Overfull \hbox (3834.1726pt too wide) in paragraph at lines 564--565
-[][] 
- []
-
-
-Overfull \hbox (3843.0526pt too wide) in paragraph at lines 564--565
-[][] 
- []
-
-
-Overfull \hbox (3831.1726pt too wide) in paragraph at lines 564--565
-[]  
- []
-
-<figs/Pole_Zero_Plt.png, id=292, 722.7pt x 578.16pt>
+<figs/Pole_Zero_Plt.png, id=288, 722.7pt x 578.16pt>
 File: figs/Pole_Zero_Plt.png Graphic file (type png)
 <use figs/Pole_Zero_Plt.png>
 Package pdftex.def Info: figs/Pole_Zero_Plt.png  used on input line 568.
 (pdftex.def)             Requested size: 252.0pt x 201.60033pt.
-<figs/h(n)_6.2.png, id=293, 462.528pt x 346.896pt>
+<figs/h(n)_6.2.png, id=289, 462.528pt x 346.896pt>
 File: figs/h(n)_6.2.png Graphic file (type png)
 <use figs/h(n)_6.2.png>
 Package pdftex.def Info: figs/h(n)_6.2.png  used on input line 575.
@@ -2653,10 +1590,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 583--586
 \OT1/txr/m/n/12 is low-pass with or-der=4 and cutoff-
  []
 
-[9 <./figs/Butterworth_analog.png> <./figs/Pole_Zero_Plt.png> <./figs/h(n)_6.2.
-png>] [10
-
-] (./main.aux)
+[8 <./figs/Butterworth_analog.png> <./figs/Pole_Zero_Plt.png> <./figs/h(n)_6.2.
+png>] (./main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -2664,13 +1599,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: C50489AC4B237CCA6623115DF81D02F2;673.
  ) 
 Here is how much of TeX's memory you used:
- 46434 strings out of 476091
- 1075593 string characters out of 5794082
+ 46432 strings out of 476091
+ 1075580 string characters out of 5794082
  2086330 words of memory out of 5000000
  65893 multiletter control sequences out of 15000+600000
  592979 words of font info for 209 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 117i,17n,118p,1172b,2085s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,17n,118p,1172b,1617s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/typ
@@ -2680,10 +1615,10 @@ pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/urw/times/utmri8a.pfb>
-Output written on main.pdf (10 pages, 386811 bytes).
+Output written on main.pdf (8 pages, 383289 bytes).
 PDF statistics:
- 395 PDF objects out of 1000 (max. 8388607)
- 333 compressed objects within 4 object streams
- 182 named destinations out of 1000 (max. 500000)
+ 385 PDF objects out of 1000 (max. 8388607)
+ 325 compressed objects within 4 object streams
+ 180 named destinations out of 1000 (max. 500000)
  131 words of extra memory for PDF output out of 10000 (max. 10000000)
 
